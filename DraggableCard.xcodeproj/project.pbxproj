@@ -15,6 +15,25 @@
 		A024A0072101B5940023CE20 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A0062101B5940023CE20 /* main.m */; };
 		A024A0112101B5940023CE20 /* DraggableCardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A0102101B5940023CE20 /* DraggableCardTests.m */; };
 		A024A01C2101B5950023CE20 /* DraggableCardUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A01B2101B5950023CE20 /* DraggableCardUITests.m */; };
+		A024A0462101B6320023CE20 /* nope@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A024A02A2101B6310023CE20 /* nope@2x.png */; };
+		A024A0472101B6320023CE20 /* liked@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A024A02B2101B6310023CE20 /* liked@2x.png */; };
+		A024A0482101B6320023CE20 /* image_8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A02C2101B6310023CE20 /* image_8.jpg */; };
+		A024A0492101B6320023CE20 /* image_9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A02D2101B6310023CE20 /* image_9.jpg */; };
+		A024A04A2101B6320023CE20 /* image_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A02E2101B6310023CE20 /* image_2.jpg */; };
+		A024A04B2101B6320023CE20 /* userInfo.png in Resources */ = {isa = PBXBuildFile; fileRef = A024A02F2101B6310023CE20 /* userInfo.png */; };
+		A024A04C2101B6320023CE20 /* image_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A0302101B6310023CE20 /* image_3.jpg */; };
+		A024A04D2101B6320023CE20 /* image_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A0312101B6310023CE20 /* image_1.jpg */; };
+		A024A04E2101B6320023CE20 /* image_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A0322101B6310023CE20 /* image_4.jpg */; };
+		A024A04F2101B6320023CE20 /* image_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A0332101B6310023CE20 /* image_5.jpg */; };
+		A024A0502101B6320023CE20 /* image_7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A0342101B6310023CE20 /* image_7.jpg */; };
+		A024A0512101B6320023CE20 /* image_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A024A0352101B6310023CE20 /* image_6.jpg */; };
+		A024A0522101B6320023CE20 /* XibViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A0372101B6320023CE20 /* XibViewController.m */; };
+		A024A0532101B6320023CE20 /* XibViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A024A0382101B6320023CE20 /* XibViewController.xib */; };
+		A024A0542101B6320023CE20 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A03B2101B6320023CE20 /* MainViewController.m */; };
+		A024A0552101B6320023CE20 /* CodeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A03D2101B6320023CE20 /* CodeViewController.m */; };
+		A024A0562101B6320023CE20 /* CustomCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A03F2101B6320023CE20 /* CustomCardView.m */; };
+		A024A0572101B6320023CE20 /* CCDraggableCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A0412101B6320023CE20 /* CCDraggableCardView.m */; };
+		A024A0582101B6320023CE20 /* CCDraggableContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = A024A0422101B6320023CE20 /* CCDraggableContainer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +70,32 @@
 		A024A0172101B5950023CE20 /* DraggableCardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DraggableCardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A024A01B2101B5950023CE20 /* DraggableCardUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DraggableCardUITests.m; sourceTree = "<group>"; };
 		A024A01D2101B5950023CE20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A024A02A2101B6310023CE20 /* nope@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nope@2x.png"; sourceTree = "<group>"; };
+		A024A02B2101B6310023CE20 /* liked@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "liked@2x.png"; sourceTree = "<group>"; };
+		A024A02C2101B6310023CE20 /* image_8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_8.jpg; sourceTree = "<group>"; };
+		A024A02D2101B6310023CE20 /* image_9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_9.jpg; sourceTree = "<group>"; };
+		A024A02E2101B6310023CE20 /* image_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_2.jpg; sourceTree = "<group>"; };
+		A024A02F2101B6310023CE20 /* userInfo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = userInfo.png; sourceTree = "<group>"; };
+		A024A0302101B6310023CE20 /* image_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_3.jpg; sourceTree = "<group>"; };
+		A024A0312101B6310023CE20 /* image_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_1.jpg; sourceTree = "<group>"; };
+		A024A0322101B6310023CE20 /* image_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_4.jpg; sourceTree = "<group>"; };
+		A024A0332101B6310023CE20 /* image_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_5.jpg; sourceTree = "<group>"; };
+		A024A0342101B6310023CE20 /* image_7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_7.jpg; sourceTree = "<group>"; };
+		A024A0352101B6310023CE20 /* image_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_6.jpg; sourceTree = "<group>"; };
+		A024A0372101B6320023CE20 /* XibViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XibViewController.m; sourceTree = "<group>"; };
+		A024A0382101B6320023CE20 /* XibViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = XibViewController.xib; sourceTree = "<group>"; };
+		A024A0392101B6320023CE20 /* CodeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CodeViewController.h; sourceTree = "<group>"; };
+		A024A03A2101B6320023CE20 /* CustomCardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCardView.h; sourceTree = "<group>"; };
+		A024A03B2101B6320023CE20 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		A024A03C2101B6320023CE20 /* XibViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XibViewController.h; sourceTree = "<group>"; };
+		A024A03D2101B6320023CE20 /* CodeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CodeViewController.m; sourceTree = "<group>"; };
+		A024A03E2101B6320023CE20 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		A024A03F2101B6320023CE20 /* CustomCardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCardView.m; sourceTree = "<group>"; };
+		A024A0412101B6320023CE20 /* CCDraggableCardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCDraggableCardView.m; sourceTree = "<group>"; };
+		A024A0422101B6320023CE20 /* CCDraggableContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCDraggableContainer.m; sourceTree = "<group>"; };
+		A024A0432101B6320023CE20 /* CCDraggableCardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDraggableCardView.h; sourceTree = "<group>"; };
+		A024A0442101B6320023CE20 /* CCDraggableConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDraggableConfig.h; sourceTree = "<group>"; };
+		A024A0452101B6320023CE20 /* CCDraggableContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDraggableContainer.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +146,9 @@
 		A0249FF62101B5930023CE20 /* DraggableCard */ = {
 			isa = PBXGroup;
 			children = (
+				A024A0402101B6320023CE20 /* CCDraggableCard */,
+				A024A0362101B6320023CE20 /* Class */,
+				A024A0292101B6310023CE20 /* Resources */,
 				A0249FF72101B5930023CE20 /* AppDelegate.h */,
 				A0249FF82101B5930023CE20 /* AppDelegate.m */,
 				A0249FFA2101B5930023CE20 /* ViewController.h */,
@@ -131,6 +179,53 @@
 			);
 			path = DraggableCardUITests;
 			sourceTree = "<group>";
+		};
+		A024A0292101B6310023CE20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A024A02A2101B6310023CE20 /* nope@2x.png */,
+				A024A02B2101B6310023CE20 /* liked@2x.png */,
+				A024A02C2101B6310023CE20 /* image_8.jpg */,
+				A024A02D2101B6310023CE20 /* image_9.jpg */,
+				A024A02E2101B6310023CE20 /* image_2.jpg */,
+				A024A02F2101B6310023CE20 /* userInfo.png */,
+				A024A0302101B6310023CE20 /* image_3.jpg */,
+				A024A0312101B6310023CE20 /* image_1.jpg */,
+				A024A0322101B6310023CE20 /* image_4.jpg */,
+				A024A0332101B6310023CE20 /* image_5.jpg */,
+				A024A0342101B6310023CE20 /* image_7.jpg */,
+				A024A0352101B6310023CE20 /* image_6.jpg */,
+			);
+			path = Resources;
+			sourceTree = SOURCE_ROOT;
+		};
+		A024A0362101B6320023CE20 /* Class */ = {
+			isa = PBXGroup;
+			children = (
+				A024A0372101B6320023CE20 /* XibViewController.m */,
+				A024A0382101B6320023CE20 /* XibViewController.xib */,
+				A024A0392101B6320023CE20 /* CodeViewController.h */,
+				A024A03A2101B6320023CE20 /* CustomCardView.h */,
+				A024A03B2101B6320023CE20 /* MainViewController.m */,
+				A024A03C2101B6320023CE20 /* XibViewController.h */,
+				A024A03D2101B6320023CE20 /* CodeViewController.m */,
+				A024A03E2101B6320023CE20 /* MainViewController.h */,
+				A024A03F2101B6320023CE20 /* CustomCardView.m */,
+			);
+			path = Class;
+			sourceTree = SOURCE_ROOT;
+		};
+		A024A0402101B6320023CE20 /* CCDraggableCard */ = {
+			isa = PBXGroup;
+			children = (
+				A024A0412101B6320023CE20 /* CCDraggableCardView.m */,
+				A024A0422101B6320023CE20 /* CCDraggableContainer.m */,
+				A024A0432101B6320023CE20 /* CCDraggableCardView.h */,
+				A024A0442101B6320023CE20 /* CCDraggableConfig.h */,
+				A024A0452101B6320023CE20 /* CCDraggableContainer.h */,
+			);
+			path = CCDraggableCard;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -237,7 +332,20 @@
 			files = (
 				A024A0042101B5940023CE20 /* LaunchScreen.storyboard in Resources */,
 				A024A0012101B5940023CE20 /* Assets.xcassets in Resources */,
+				A024A04D2101B6320023CE20 /* image_1.jpg in Resources */,
+				A024A0502101B6320023CE20 /* image_7.jpg in Resources */,
+				A024A0492101B6320023CE20 /* image_9.jpg in Resources */,
+				A024A0512101B6320023CE20 /* image_6.jpg in Resources */,
+				A024A04C2101B6320023CE20 /* image_3.jpg in Resources */,
+				A024A0482101B6320023CE20 /* image_8.jpg in Resources */,
+				A024A0532101B6320023CE20 /* XibViewController.xib in Resources */,
+				A024A0462101B6320023CE20 /* nope@2x.png in Resources */,
 				A0249FFF2101B5930023CE20 /* Main.storyboard in Resources */,
+				A024A04E2101B6320023CE20 /* image_4.jpg in Resources */,
+				A024A04F2101B6320023CE20 /* image_5.jpg in Resources */,
+				A024A04B2101B6320023CE20 /* userInfo.png in Resources */,
+				A024A04A2101B6320023CE20 /* image_2.jpg in Resources */,
+				A024A0472101B6320023CE20 /* liked@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,8 +370,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A024A0522101B6320023CE20 /* XibViewController.m in Sources */,
+				A024A0552101B6320023CE20 /* CodeViewController.m in Sources */,
 				A0249FFC2101B5930023CE20 /* ViewController.m in Sources */,
 				A024A0072101B5940023CE20 /* main.m in Sources */,
+				A024A0572101B6320023CE20 /* CCDraggableCardView.m in Sources */,
+				A024A0542101B6320023CE20 /* MainViewController.m in Sources */,
+				A024A0582101B6320023CE20 /* CCDraggableContainer.m in Sources */,
+				A024A0562101B6320023CE20 /* CustomCardView.m in Sources */,
 				A0249FF92101B5930023CE20 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

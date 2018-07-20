@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  DraggableCard
+//  CCDraggableCard-Master
 //
-//  Created by 王杰 on 2018/7/20.
-//  Copyright © 2018年 极限交友. All rights reserved.
+//  Created by jzzx on 16/7/6.
+//  Copyright © 2016年 Zechen Liu. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
